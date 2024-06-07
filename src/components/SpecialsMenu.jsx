@@ -16,14 +16,15 @@ const SpecialsMenu = () => {
             </Link>
           </div>
           <div className="flex-items">
+           
             <div className="flex-item">
               <div className="img-wrap">
-                <img src={GreekSalad} alt="Greek Salad" />
+                <img src={Bruchetta} alt="Bruchetta" />
               </div>
               <div className="content-wrap">
                 <div className="heading">
-                  <p className="title">GreekSalad.</p>
-                  <p className="price">Rs. 180/-</p>
+                  <p className="title">Bruchetta</p>
+                  <p className="price">Rs. 220/-</p>
                 </div>
                 <p className="desc">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis
@@ -41,12 +42,12 @@ const SpecialsMenu = () => {
             </div>
             <div className="flex-item">
               <div className="img-wrap">
-                <img src={Bruchetta} alt="Bruchetta" />
+                <img src={GreekSalad} alt="Greek Salad" />
               </div>
               <div className="content-wrap">
                 <div className="heading">
-                  <p className="title">Bruchetta</p>
-                  <p className="price">Rs. 220/-</p>
+                  <p className="title">GreekSalad.</p>
+                  <p className="price">Rs. 180/-</p>
                 </div>
                 <p className="desc">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis

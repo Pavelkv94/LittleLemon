@@ -24,9 +24,24 @@ const Testimonials = () => {
                 <img src={star} />
               </span>
               <div className="text">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Assumenda aliquid expedita non fugit qui laudantium facere iure
-                culpa alias esse.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda aliquid expedita non fugit qui laudantium facere iure culpa alias esse.
+              </div>
+            </div>
+
+            <div className="flex-item">
+              <div className="img-wrap">
+                <img src={Image3} alt="Customer" />
+              </div>
+              <p className="name">Amelia</p>
+              <span className="stars">
+                <img src={star} />
+                <img src={star} />
+                <img src={star} />
+                <img src={star} />
+                <img src={star} />
+              </span>
+              <div className="text">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda aliquid expedita non fugit qui laudantium facere iure culpa alias esse.
               </div>
             </div>
             <div className="flex-item">
@@ -42,27 +57,7 @@ const Testimonials = () => {
                 <img src={star} />
               </span>
               <div className="text">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Assumenda aliquid expedita non fugit qui laudantium facere iure
-                culpa alias esse.
-              </div>
-            </div>
-            <div className="flex-item">
-              <div className="img-wrap">
-                <img src={Image3} alt="Customer" />
-              </div>
-              <p className="name">Amelia</p>
-              <span className="stars">
-                <img src={star} />
-                <img src={star} />
-                <img src={star} />
-                <img src={star} />
-                <img src={star} />
-              </span>
-              <div className="text">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Assumenda aliquid expedita non fugit qui laudantium facere iure
-                culpa alias esse.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda aliquid expedita non fugit qui laudantium facere iure culpa alias esse.
               </div>
             </div>
             <div className="flex-item">
@@ -78,9 +73,7 @@ const Testimonials = () => {
                 <img src={star} />
               </span>
               <div className="text">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Assumenda aliquid expedita non fugit qui laudantium facere iure
-                culpa alias esse.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda aliquid expedita non fugit qui laudantium facere iure culpa alias esse.
               </div>
             </div>
           </div>
